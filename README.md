@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyushfromit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyushfromit/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jkumari25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jkumari25/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/piyushfromit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/piyushfromit/" height="30" width="40" /></a>
 </p>
 
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkumari25&show_icons=true&locale=en" alt="jkumari25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkumari25&" alt="piyushfromit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkumari25&" alt="jkumari25" /></p>
