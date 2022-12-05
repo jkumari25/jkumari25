@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *jagriti.sj15@gmail.com*
 
-- 📄 Know about my experiences ["https://drive.google.com/drive/u/0/my-drive"]
+- 📄 Know about my experiences ["[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/15N-R0IqR6D_eAkUvJxANtkZbYUGj74vx/view?usp=sharing)"]
 
 - ⚡ Fun fact *I don't leave anything easily.*
 
