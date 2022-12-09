@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *MongoDb, Express, React, NodeJS*
 
-- 👨‍💻 All of my projects are available at [https://jkumari25.github.io/](https://jkumari25.github.io/)
+- 👨‍💻 All of my projects are available at [https://jkumari25.github.io](https://jkumari25.github.io/)
 
 - 💬 Ask me about *JavaScript, MERN*
 
